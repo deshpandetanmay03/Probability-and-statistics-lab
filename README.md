@@ -1,2 +1,2 @@
 # Probability-and-statistics-lab
-following course for r studio
+following college course for r studio
